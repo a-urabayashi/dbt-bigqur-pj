@@ -1,1 +1,1 @@
-# dbt-bigqur-pj
+# dbt-bigquery-pj
